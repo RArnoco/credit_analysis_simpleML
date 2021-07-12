@@ -1,2 +1,2 @@
 # credit_analysis_simpleML
-Simple Credit Risk Analysis with use of Machine Learning
+Simple Credit Risk Analysis with use of Machine Learning, XGBoost, LightGBM and CatBoost
